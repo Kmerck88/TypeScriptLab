@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "typescript",
+      "tsconfig": "../../../C:/Grand_Circus/TypeScriptLab/tsconfig.json",
+      "problemMatcher": ["$tsc"],
+      "group": "build",
+      "label": "tsc: build - ../../../C:/Grand_Circus/TypeScriptLab/tsconfig.json"
+    }
+  ]
+}
